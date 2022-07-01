@@ -13,4 +13,4 @@ data props are flowed through from parent components via attributes attached to 
 
 This project is very simple but it got me to get a better understanding of a hook concept
 
-This project is live at ... 
+This project is live at https://creative-klepon-511c76.netlify.app/
